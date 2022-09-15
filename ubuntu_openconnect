@@ -1,0 +1,9 @@
+#!/bin/bash
+#Script Variables
+HOST='69.10.38.124';
+USER='hmbuildx_robelxl';
+PASS='VpnPanel7519';
+DBNAME='hmbuildx_robelxl';
+PORT_TCP='1194';
+PORT_UDP='None';
+404: Not Found
